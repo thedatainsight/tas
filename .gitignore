@@ -1,0 +1,7 @@
+*.pyc
+*.so
+*.pyd
+pypihelp.txt
+build/*
+dist/*
+tas.egg-info/*
