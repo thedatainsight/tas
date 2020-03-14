@@ -48,7 +48,7 @@ tas new mega_project
 ```
 1. `run` existing project
 ```sh
-tas run mage_project
+tas run mega_project
 ```
 2. `list` objects (`a`-all, `p`-projects, `n`-namespace, `t`-templates)
 ```sh
